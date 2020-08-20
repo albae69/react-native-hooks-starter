@@ -10,7 +10,7 @@ library included :
  - React Navigation
  - React Native Response Screen
  - React Native Skeleton Content
- - React Native SVG (you can call your .svg file as react component and got props)
+ - React Native SVG (you can call your .svg file as react component, u still need manual configuration)
  - React Native Swiper
  - React Native Tab View
  - React Native Vector Icons
